@@ -20,4 +20,4 @@
 (https://getbootstrap.com/docs/5.1/content/tables/#overview)
 - Tablonun en altında sepet tutarının toplamını, KDV'sini ve KDV'li tutarı da gösterelim.
 
-### İşlemler Tamamlandı.
+### İşlemler Tamamlandı..
